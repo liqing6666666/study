@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.github.io/study/sitemap.xml
+Sitemap: https://liqing6666666.github.io/study/study/sitemap.xml
