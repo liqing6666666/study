@@ -7,11 +7,6 @@ export default defineUserConfig({
 
   locales: {
     "/": {
-      lang: "en-US",
-      title: "Blog Demo",
-      description: "A blog demo for Li Qing",
-    },
-    "/zh/": {
       lang: "zh-CN",
       title: "博客展示",
       description: "离卿的博客展示",
