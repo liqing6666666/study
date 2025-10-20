@@ -3,8 +3,7 @@ home: true
 layout: Blog
 icon: house
 title: 博客主页
-docsDir: "src"
-heroImage: "/.vuepress/public/assets/images/avatar.png"
+heroImage: "/assets/images/avatar.png"
 heroText: 离卿
 heroFullScreen: true
 tagline: 淋过雨才会成长
