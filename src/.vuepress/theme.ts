@@ -12,7 +12,7 @@ export default hopeTheme({
   },
 
   // 网站Logo（可替换为你的图片，或删除此行使用默认）
-  logo: "https://github.com/liqing6666666/study/blob/main/src/.vuepress/public/assets/images/avatar.png", // 图片放在 public/images 目录下
+  logo: "/.vuepress/public/assets/images/avatar.png", // 图片放在 public/images 目录下
 
   // 代码仓库地址（替换为你的仓库，或删除）
   repo: "liqing6666666/study",
@@ -22,7 +22,7 @@ export default hopeTheme({
 
   // 博客配置（精简社交链接）
   blog: {
-    avatar: "https://github.com/liqing6666666/study/blob/main/src/.vuepress/public/assets/images/avatar.png", // 头像图片路径
+    avatar: "/.vuepress/public/assets/images/avatar.png", // 头像图片路径
     medias: {
       // 只保留你需要的社交平台，删除其他
       GitHub: "https://github.com/liqing6666666", // 可选

@@ -3,7 +3,8 @@ home: true
 layout: Blog
 icon: house
 title: 博客主页
-heroImage: "https://github.com/liqing6666666/study/blob/main/src/.vuepress/public/assets/images/avatar.png"
+docsDir: "src"
+heroImage: "/.vuepress/public/assets/images/avatar.png"
 heroText: 离卿
 heroFullScreen: true
 tagline: 淋过雨才会成长
@@ -38,7 +39,7 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-bgImage: "https://github.com/liqing6666666/study/blob/main/src/.vuepress/public/assets/images/Blue1.jpg"
+bgImage: "/.vuepress/public/assets/images/Blue1.jpg"
 footer: 自定义你的页脚文字
 ---
 
