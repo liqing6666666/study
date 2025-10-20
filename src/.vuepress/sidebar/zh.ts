@@ -6,7 +6,10 @@ export const zhSidebar = sidebar({
       text: "博客文章",
       icon: "book",
       prefix: "blogs/",
-      children: "structure",
+      children: [
+        "2025_10_20_20/", // 对应 src/blogs/2025_10_20_20/index.md
+        "2025_10_20_21/",
+      ],
     },
   ],
 });
