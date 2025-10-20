@@ -26,10 +26,10 @@ export default hopeTheme({
     medias: {
       // 只保留你需要的社交平台，删除其他
       GitHub: "https://github.com/liqing6666666", // 可选
-      Csdn:"https://blog.csdn.net/2302_80063517?spm=1000.2115.3001.5343"
+      BiliBili:"https://space.bilibili.com/1836488013"
     },
     // 博客描述和介绍页（根据需要修改）
-    description: "个人博客",
+    description: "离卿的学习博客",
     intro: "/intro.html", // 如需介绍页保留，否则删除
   },
 
