@@ -20,7 +20,7 @@ fatal: unable to access 'https://github.com/liqing6666666/blog.git/': SSL certif
 
 先去下载一个**watt tolkit**有的也叫stream++
 
-<img src=".\20251021221102596.png" alt="20251021221102596" style="zoom:80%;" />
+![image](1.png)
 
 打开证书文件夹，复制==StreamTools.Certificate.cer==文件注意不是.pfx的文件
 
@@ -31,4 +31,4 @@ fatal: unable to access 'https://github.com/liqing6666666/blog.git/': SSL certif
 ```
 
 这个是我推送到github仓库时，出了点问题，解决后的图片
-<img src=".\20251021221455112.png" alt="20251021221455112" style="zoom:50%;" />
+![image](2.png)
