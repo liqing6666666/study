@@ -8,7 +8,8 @@ export const zhSidebar = sidebar({
       prefix: "blogs/",
       children: [
         "2025_10_20_20/", // 对应 src/blogs/2025_10_20_20/index.md
-        "2025_10_20_21/",
+        "2025_10_21_20/",
+        "2025_10_21_22/"
       ],
     },
   ],
