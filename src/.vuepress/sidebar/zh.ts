@@ -3,7 +3,7 @@ import { sidebar } from "vuepress-theme-hope";
 export const zhSidebar = sidebar({
   "/": [
     {
-      text: "博客文章",
+      text: "博客1",
       icon: "book",
       prefix: "blogs/",
       children: [
@@ -12,7 +12,14 @@ export const zhSidebar = sidebar({
         "2025_10_21_22/",
         "2025_10_22_9/",
         "2025_10_22_14/",
+        
       ],
+    },
+    {
+      text: "博客2",
+      icon: "book",
+      prefix: "new_blogs/",
+      children: "structure",
     },
   ],
 });
