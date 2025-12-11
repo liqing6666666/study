@@ -12,7 +12,8 @@ export const zhNavbar = navbar([
       { text: "解决github远程连接不上的问题", icon: "pen-to-square", link: "blogs/2025_10_21_22/" },
       { text: "yaml学习", icon: "pen-to-square", link: "blogs/2025_10_22_9/" },
       { text: "git学习", icon: "pen-to-square", link: "blogs/2025_10_22_14/" },
-      { text: "Javascript学习", icon: "pen-to-square", link: "new_blogs/2025_10_26_13" },
+      { text: "Javascript学习", icon: "pen-to-square", link: "blogs/2025_10_26_13" },
+      {text:"鸿蒙学习", icon: "pen-to-square", link: "HarmonyOS/2025_12_11_22/"},
     ],
   },
 ]);

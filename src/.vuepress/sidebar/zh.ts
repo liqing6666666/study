@@ -18,7 +18,7 @@ export const zhSidebar = sidebar({
     {
       text: "博客2",
       icon: "book",
-      prefix: "new_blogs/",
+      prefix: "HarmonyOS/",
       children: "structure",
     },
   ],
