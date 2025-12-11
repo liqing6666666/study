@@ -12,11 +12,11 @@ export const zhSidebar = sidebar({
         "2025_10_21_22/",
         "2025_10_22_9/",
         "2025_10_22_14/",
-        
+        "2025_10_26_13/",
       ],
     },
     {
-      text: "博客2",
+      text: "鸿蒙",
       icon: "book",
       prefix: "HarmonyOS/",
       children: "structure",
