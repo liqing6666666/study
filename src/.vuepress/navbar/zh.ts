@@ -13,7 +13,9 @@ export const zhNavbar = navbar([
       { text: "yaml学习", icon: "pen-to-square", link: "blogs/2025_10_22_9/" },
       { text: "git学习", icon: "pen-to-square", link: "blogs/2025_10_22_14/" },
       { text: "Javascript学习", icon: "pen-to-square", link: "blogs/2025_10_26_13/" },
-      {text:"鸿蒙学习", icon: "pen-to-square", link: "HarmonyOS/2025_12_11_22"},
+      {text:"鸿蒙侧滑退出", icon: "pen-to-square", link: "HarmonyOS/2025_12_11_22"},
+      {text:"网络请求", icon: "pen-to-square", link: "HarmonyOS/2025_12_12_11"},
+      {text:"滑动变换导航栏", icon: "pen-to-square", link: "HarmonyOS/2025_12_12_21"},
     ],
   },
 ]);
