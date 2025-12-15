@@ -16,6 +16,7 @@ export const zhNavbar = navbar([
       {text:"鸿蒙侧滑退出", icon: "pen-to-square", link: "HarmonyOS/2025_12_11_22"},
       {text:"网络请求", icon: "pen-to-square", link: "HarmonyOS/2025_12_12_11"},
       {text:"滑动变换导航栏", icon: "pen-to-square", link: "HarmonyOS/2025_12_12_21"},
+      {text:"鸿蒙安全区域", icon: "pen-to-square", link: "HarmonyOS/2025_12_15_22"},
     ],
   },
 ]);
