@@ -5,6 +5,11 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/study/",
 
+  head: [
+    // 全局设置所有资源请求不携带Referer
+    ["base", { referrerPolicy: "no-referrer" }]
+  ],
+  
   locales: {
     "/": {
       lang: "zh-CN",
