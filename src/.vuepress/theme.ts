@@ -78,4 +78,6 @@ export default hopeTheme({
     },
     // 如需其他插件（如评论、PWA），可在此添加，否则保持精简
   },
+  
+
 });
