@@ -23,6 +23,7 @@ export default defineClientConfig({
       setTimeout(() => addReferrerPolicy(), 100);
       setTimeout(() => addReferrerPolicy(), 500);
 
+
       // 监听路由切换
       window.addEventListener("routeChangeAfter", async () => {
         await nextTick();
